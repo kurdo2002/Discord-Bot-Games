@@ -8,7 +8,7 @@ const express = require('express');
 const ayarlar = require('./ayarlar.json');
 const Discord = require('discord.js');
 const darknoah = new Discord.Client();
-darknoah.login('TOKEN')
+darknoah.login('ODcyNzQ5NTA4OTQ4Mjc1MjIx.YQuZUQ.3dSJPT8AyU7ORXG63EGuyx-CZI8')
 //== BEERCODE (https://discord.gg/ew3dpTu4Z5) BEERCODE ==\\
 
 
